@@ -1,6 +1,5 @@
 package com.shallow.program;
 
-import java.util.List;
 import java.util.Stack;
 
 public class MergeTwoSortList {
