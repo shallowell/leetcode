@@ -1,12 +1,9 @@
-package com.shallow.program;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
-import org.assertj.core.api.Assertions;
+import com.shallow.program.RemoveElementImpl;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 class RemoveElementTest {
 	static RemoveElementImpl impl;
